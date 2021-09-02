@@ -1,0 +1,7 @@
+{
+  "home": {
+    "logoAlt": "logo",
+    "editSrcAndSaveToReload": "Edit <1>{{fileName}}</1> and save to reload.",
+    "learnReact": "Learn React"
+  }
+}
